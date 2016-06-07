@@ -1,0 +1,14 @@
+layout_spectrum: 0.546447885222733
+typography_spectrum: 0.4548709013033658
+color:
+  brandStrength: 0.3573051921557635
+  lightness: 0.2406310539226979
+  saturation: 0.40197823173366487
+  rhythmicContrast: 0.7212336156517267
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: Staryapp
